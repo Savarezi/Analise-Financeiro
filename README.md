@@ -5,7 +5,8 @@
 Este projeto visa realizar uma análise detalhada do Índice Bovespa, ajudando investidores a tomar decisões informadas sobre quais ações investir. Utilizamos técnicas de análise exploratória de dados e visualizações em Tableau para apresentar os resultados de forma clara e intuitiva. 📈
 
 
-<img width="972" height="547" alt="image" src="https://github.com/user-attachments/assets/abf92600-74d6-48a3-9458-7b095c550fa7" />
+<img width="972" height="547" alt="image" src="https://github.com/user-attachments/assets/ba591a0b-19ec-4552-b836-b9f535139a7e" />
+
 
 
 
@@ -59,9 +60,6 @@ cd Análise_Financeira
 
 Após executar as células do Jupyter Notebook, você verá os gráficos gerados a partir da análise. Você também pode abrir o arquivo `.tableau` no Tableau para explorar as visualizações.
 
-![1728259559903](image/README/1728259559903.png)
-
-![1728259607723](image/README/1728259607723.png)
 
 ## Análise Realizada 🔍
 
